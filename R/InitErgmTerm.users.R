@@ -1,12 +1,3 @@
-#  File ergm.userterms/R/InitErgmTerm.users.R
-#  Part of the statnet package, http://statnetproject.org
-#
-#  This software is distributed under the GPL-3 license.  It is free,
-#  open source, and has the attribution requirements (GPL Section 7) in
-#    http://statnetproject.org/attribution
-#
-#  Copyright 2011 the statnet development team
-######################################################################
 ######################################################################
 #
 # !! USERS: READ THIS FIRST!!
@@ -144,8 +135,8 @@
 #  -------------------------------------------------------------------------- 
 
 #  This InitErgmTerm function is for the mindegree term described
-#  in Hunter, Goodreau, and Handcock (2010), "ergm.userterms:  A
-#  Template for Building Plug-in Packages for statnet"
+#  in Hunter, Goodreau, and Handcock (2011), "ergm.userterms:  A
+#  Template Package for Extending statnet"
 InitErgmTerm.mindegree <- function(nw, arglist, ...) {
   a <- check.ErgmTerm(nw, arglist, directed=FALSE, bipartite=FALSE,
       varnames = c("mindeg", "by"),

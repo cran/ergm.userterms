@@ -1,0 +1,17 @@
+2fe398cf105efe8bd88afe8eab9419d6 *DESCRIPTION
+ead147368b17280212072e961669d0e6 *LICENSE
+2a03034258c319b0d4cfa53ffc8ebdd2 *NAMESPACE
+17bf6a774a59bf3b2ef206737168d57f *R/InitErgmTerm.users.R
+adfb18ce971d02adf1e9dab854704102 *R/zzz.R
+efa35bb3ae2efa91a19ad4fbda73c2a8 *inst/CITATION
+f9e35f49871abf8f3f03e3436838270e *man/ergm.userterms-package.Rd
+221c0f7d16870b2ea26e4ece628a9ac4 *src/MCMC.h
+6722e2afea86dae9826e8ffabcb5bf6c *src/MHproposal.h
+7fb05680839acc234197871afb8e0d12 *src/changestat.h
+f5030c06decc8154d574b81427bbc6fc *src/changestats.users.c
+541b03c1106c2ca46de7358911816a12 *src/changestats.users.h
+35dc99a4c17a9cabacbeb8ed0c0023b9 *src/edgelist.h
+82e79e1c566475f383ab59799f190f5a *src/edgetree.c
+fa878e3542b8a16e5731be8433ae911c *src/edgetree.h
+66caa76fca41edc0c2aa39d5b6c3cd95 *src/model.c
+4cb98d3a8f940085e59d06076ff9148c *src/model.h
