@@ -1,10 +1,11 @@
-2fe398cf105efe8bd88afe8eab9419d6 *DESCRIPTION
+c4b77b0df34b051fad28179aeabf0886 *DESCRIPTION
 ead147368b17280212072e961669d0e6 *LICENSE
 2a03034258c319b0d4cfa53ffc8ebdd2 *NAMESPACE
 17bf6a774a59bf3b2ef206737168d57f *R/InitErgmTerm.users.R
 adfb18ce971d02adf1e9dab854704102 *R/zzz.R
-efa35bb3ae2efa91a19ad4fbda73c2a8 *inst/CITATION
-f9e35f49871abf8f3f03e3436838270e *man/ergm.userterms-package.Rd
+eea6f2aa48c5d5dfa40dd4c50aa43f9b *inst/CITATION
+2075cd73b2f3a4865b8bf2ad4b130ee4 *man/ergm.userterms-package.Rd
+5386d597d158872e7f11a6ffb513ab5a *man/mindegree-term.Rd
 221c0f7d16870b2ea26e4ece628a9ac4 *src/MCMC.h
 6722e2afea86dae9826e8ffabcb5bf6c *src/MHproposal.h
 7fb05680839acc234197871afb8e0d12 *src/changestat.h
