@@ -1,3 +1,12 @@
+%  File man/ergm.userterms-package.Rd in package ergm.userterms, part of the Statnet suite
+%  of packages for network analysis, http://statnet.org .
+%
+%  This software is distributed under the GPL-3 license.  It is free,
+%  open source, and has the attribution requirements (GPL Section 7) at
+%  http://statnet.org/attribution
+%
+%  Copyright 2003-2013 Statnet Commons
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \name{ergm.userterms-package}
 \alias{ergm.userterms-package}
 \alias{ergm.userterms}
@@ -109,7 +118,7 @@ URL http://www.jstatsoft.org/v52/i02/.
 \examples{
 data(faux.mesa.high)
 summary(faux.mesa.high~mindegree(2))
-fit <- ergm(faux.mesa.high~mindegree(2), MPLEonly=TRUE)
+fit <- ergm(faux.mesa.high~mindegree(2), estimate="MPLE")
 summary(fit)
 }
 \keyword{ package }

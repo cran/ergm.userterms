@@ -1,21 +1,15 @@
-citHeader("To cite ergm.userterms in publications use:")
-
-citEntry(entry = "Article",
-  title        = "{ergm.userterms}: A Template Package for Extending {statnet}",
-  author       = personList(as.person("David R. Hunter"),
-                   as.person("Steven M. Goodreau"),
-                   as.person("Mark S. Handcock")),
-  journal      = "Journal of Statistical Software",
-  year         = "2013",
-  volume       = "52",
-  number       = "2",
-  pages        = "1--25",
-  url          = "http://www.jstatsoft.org/v52/i02/",
-
-  textVersion  =
-  paste("David R. Hunter, Steven M. Goodreau, Mark S. Handcock (2013).",
-        "ergm.userterms: A Template Package for Extending statnet.",
-        "Journal of Statistical Software, 52(2), 1-25.",
-        "URL http://www.jstatsoft.org/v52/i02/.")
-)
-
+library(statnet.common)
+statnet.cite.head("ergm.userterms")
+statnet.cite.pkg("ergm")
+statnet.cite.pkg("ergm.userterms")
+bibentry("Article",
+         title = "ergm.userterms: A Template Package for Extending statnet",
+         author = personList(as.person("David R. Hunter"),
+           as.person("Steven M. Goodreau"),
+           as.person("Mark S. Handcock")),
+         journal = "Journal of Statistical Software",
+         year = 2013,
+         volume = 52,
+         number = 2,
+	 pages = "1--25")
+statnet.cite.foot("ergm.userterms")
