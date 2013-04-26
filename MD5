@@ -1,12 +1,11 @@
-95bd21f93d33a184932fff7468693c80 *DESCRIPTION
+abb1d99ab057e3fdda7e83c5f8ca3f6e *DESCRIPTION
 701f5888ca1f5f66d528c0741994cde8 *LICENSE
-2a03034258c319b0d4cfa53ffc8ebdd2 *NAMESPACE
+e83ed5c618a39a1925c855688f4aec41 *NAMESPACE
 dfb5995aed12c6762eaba4789908c272 *R/InitErgmTerm.users.R
 dd9d2d3008dbcd2286601dfbace889b5 *R/zzz.R
 d6b14927be206639583e3cd5e4786b41 *inst/CITATION
-fe29fbfc19c25fc2c683ab90e2880f3b *inst/doc/ergmuserterms.R
-35e7064531350ca7af909e7460c8783d *inst/doc/ergmuserterms.Rnw
-0592de1703a5914796b42d1a2a9cdfae *inst/doc/ergmuserterms.pdf
+755faae871c42bd38046d24289609eb3 *inst/doc/ergmuserterms.pdf
+bce87fd2efb7536dd0b4db65bdd78ebb *inst/doc/index.html
 c105fe30370fcc0cf6f08e5569c60c44 *man/ergm.userterms-package.Rd
 4dde64c362d95cce5ff3ba04163e82e0 *man/eut-upgrade.Rd
 4bd85b382d7b63b1b907ef4dce8c6ef2 *man/mindegree-term.Rd
